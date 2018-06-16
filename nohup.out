@@ -1,0 +1,189 @@
+/usr/lib/python2.7/site-packages/openpyxl/xml/__init__.py:15: UserWarning: The installed version of lxml is too old to be used with openpyxl
+  warnings.warn("The installed version of lxml is too old to be used with openpyxl")
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  1.50ms 
+     (www.server110.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.45ms 
+     (www.server110.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  1.79ms 
+     (www.server110.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.40ms 
+     (www.linode.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.44ms 
+     (www.linode.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.36ms 
+     (www.linode.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.52ms 
+     (www.baidu.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.43ms 
+     (www.baidu.com:443) 
+     {}
+[W 171211 19:57:30 utils:31] 405  CONNECT  222.241.7.197  0.43ms 
+     (www.baidu.com:443) 
+     {}
+[I 171211 20:29:10 utils:31] 302  GET  114.246.66.153  0.81ms 
+     (/) 
+     {}
+[I 171211 20:29:10 utils:31] 200  GET  114.246.66.153  3.94ms 
+     (/login) 
+     {}
+[I 171211 20:29:10 utils:31] 200  GET  114.246.66.153  1.57ms 
+     (/static/layui.js?v=0a7e48aa56a80600e3e11243570557be) 
+     {'v': ['0a7e48aa56a80600e3e11243570557be']}
+[I 171211 20:29:10 utils:31] 200  GET  114.246.66.153  2.69ms 
+     (/static/css/layui.css?v=2cf534a94a5109e9690dc3118c405400) 
+     {'v': ['2cf534a94a5109e9690dc3118c405400']}
+[W 171211 20:29:10 utils:31] 404  GET  114.246.66.153  1.69ms 
+     (/favicon.ico) 
+     {}
+[I 171211 20:29:22 base:56] path: /login, arguments: {'passwd': ['123456'], 'uname': ['123456']}, response: {"msg": "\u767b\u9646\u6210\u529f", "code": 0, "errcode": 0, "errmsg": "\u670d\u52a1\u6b63\u5e38"}
+[I 171211 20:29:22 utils:31] 302  POST  114.246.66.153  1.21ms 
+     (/login) 
+     {'passwd': ['123456'], 'uname': ['123456']}
+[I 171211 20:29:22 utils:31] 200  GET  114.246.66.153  2.58ms 
+     (/) 
+     {}
+[I 171211 20:29:22 utils:31] 200  GET  114.246.66.153  1.53ms 
+     (/static/lay/modules/element.js) 
+     {}
+[I 171211 20:29:22 utils:31] 200  GET  114.246.66.153  6.78ms 
+     (/static/lay/modules/jquery.js) 
+     {}
+[I 171211 20:29:31 utils:31] 200  GET  114.246.66.153  5.47ms 
+     (/push) 
+     {}
+[W 171211 20:29:31 utils:31] 404  GET  114.246.66.153  1.84ms 
+     (/favicon.ico) 
+     {}
+[I 171211 20:29:32 utils:31] 200  GET  114.246.66.153  3.46ms 
+     (/rank) 
+     {}
+[W 171211 20:29:33 utils:31] 404  GET  114.246.66.153  2.64ms 
+     (/favicon.ico) 
+     {}
+[I 171211 20:29:33 utils:31] 200  GET  114.246.66.153  3.61ms 
+     (/class) 
+     {}
+[W 171211 20:29:34 utils:31] 404  GET  114.246.66.153  1.67ms 
+     (/favicon.ico) 
+     {}
+[I 171211 20:29:43 utils:31] 304  GET  114.246.66.153  3.08ms 
+     (/push) 
+     {}
+[W 171211 20:29:44 utils:31] 404  GET  114.246.66.153  2.68ms 
+     (/favicon.ico) 
+     {}
+[I 171211 21:12:53 utils:31] 302  GET  60.191.38.77  0.83ms 
+     (/) 
+     {}
+[W 171211 23:31:07 utils:31] 404  GET  58.218.200.3  0.59ms 
+     (/index.action) 
+     {}
+[W 171211 23:59:40 utils:31] 404  HEAD  60.191.52.254  0.47ms 
+     (http://wap.ip138.com/) 
+     {}
+[I 171212 00:47:30 utils:31] 302  GET  209.126.136.4  0.54ms 
+     (/) 
+     {}
+[I 171212 02:52:14 utils:31] 302  GET  222.186.46.34  0.50ms 
+     (/) 
+     {}
+[I 171212 02:52:14 utils:31] 200  GET  222.186.46.34  1.84ms 
+     (/login) 
+     {}
+[W 171212 02:52:14 utils:31] 404  GET  222.186.46.34  1.07ms 
+     (/index.action) 
+     {}
+[I 171212 03:24:11 utils:31] 302  GET  61.158.162.239  0.55ms 
+     (/) 
+     {}
+[I 171212 03:24:11 utils:31] 200  GET  61.158.162.239  1.66ms 
+     (/login) 
+     {}
+[W 171212 03:24:11 utils:31] 404  GET  61.158.162.239  1.31ms 
+     (/index.action) 
+     {}
+[I 171212 03:56:58 utils:31] 302  GET  222.186.172.42  0.51ms 
+     (/) 
+     {}
+[I 171212 03:56:59 utils:31] 200  GET  222.186.172.42  1.74ms 
+     (/login) 
+     {}
+[W 171212 03:56:59 utils:31] 404  GET  222.186.172.42  1.15ms 
+     (/index.action) 
+     {}
+[W 171212 04:07:34 utils:31] 404  GET  120.132.19.52  0.98ms 
+     (http://www.qq.com/404/search_children.js) 
+     {}
+[I 171212 07:37:33 utils:31] 302  GET  180.101.185.48  0.63ms 
+     (/) 
+     {}
+[I 171212 09:28:21 utils:31] 302  GET  124.89.90.228  0.57ms 
+     (/) 
+     {}
+[I 171212 09:28:21 utils:31] 200  GET  124.89.90.228  1.66ms 
+     (/login) 
+     {}
+[W 171212 09:28:21 utils:31] 404  GET  124.89.90.228  1.08ms 
+     (/index.action) 
+     {}
+[I 171212 09:50:33 utils:31] 304  GET  106.120.22.166  2.08ms 
+     (/) 
+     {}
+[I 171212 09:50:33 utils:31] 304  GET  106.120.22.166  0.95ms 
+     (/static/lay/modules/element.js) 
+     {}
+[I 171212 09:50:33 utils:31] 304  GET  106.120.22.166  0.90ms 
+     (/static/lay/modules/jquery.js) 
+     {}
+[I 171212 09:55:53 utils:31] 302  GET  139.59.133.235  0.68ms 
+     (/) 
+     {}
+[I 171212 09:57:33 utils:31] 304  GET  106.120.22.166  3.20ms 
+     (/rank) 
+     {}
+[I 171212 09:57:34 utils:31] 304  GET  106.120.22.166  4.23ms 
+     (/push) 
+     {}
+[I 171212 09:57:35 utils:31] 304  GET  106.120.22.166  3.26ms 
+     (/class) 
+     {}
+[I 171212 09:57:36 utils:31] 304  GET  106.120.22.166  2.74ms 
+     (/push) 
+     {}
+[I 171212 09:57:36 utils:31] 304  GET  106.120.22.166  3.37ms 
+     (/rank) 
+     {}
+[I 171212 09:57:37 utils:31] 304  GET  106.120.22.166  3.39ms 
+     (/push) 
+     {}
+[I 171212 09:57:37 utils:31] 304  GET  106.120.22.166  2.86ms 
+     (/class) 
+     {}
+[I 171212 10:10:32 autoreload:204] /home/test/new_web_manage/handler/class.py modified; restarting server
+/usr/lib/python2.7/site-packages/openpyxl/xml/__init__.py:15: UserWarning: The installed version of lxml is too old to be used with openpyxl
+  warnings.warn("The installed version of lxml is too old to be used with openpyxl")
+[I 171212 10:10:40 utils:31] 200  GET  106.120.22.166  7.07ms 
+     (/class) 
+     {}
+[I 171212 10:16:05 utils:31] 200  GET  106.120.22.166  3.86ms 
+     (/class) 
+     {}
+[I 171212 10:17:55 utils:31] 304  GET  106.120.22.166  3.41ms 
+     (/class) 
+     {}
+[I 171212 10:17:58 utils:31] 304  GET  106.120.22.166  3.46ms 
+     (/class) 
+     {}
+[I 171212 10:18:00 utils:31] 304  GET  106.120.22.166  3.72ms 
+     (/class) 
+     {}
+[I 171212 10:18:00 utils:31] 304  GET  106.120.22.166  3.88ms 
+     (/class) 
+     {}
